@@ -12,6 +12,8 @@ SC-NC-BENCH — repository foundation
 
 SC-NC Bench is being built as the benchmark layer split out of SC-NeuroCore: the workload suites that compare engines, compilers and trained networks, the adapter runs that put other frameworks on the same workloads, profiling, and the energy accounting that keeps measured and estimated figures apart. It imports SC-NC Core, SC-NC Engine, SC-NC Analysis, SC-NC Compiler, SC-NC Learn and SC-NC Bridges. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed benchmark runner, workload suite, energy accountant or qualified record schema.
 
+SC-NC Bench is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;

@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-BENCH",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "0f25ecf62f46dd19f6e68d0c0ef94671a79c569e576b1855e9653396f995ec8a"
+    "sha256": "d2ab66f755ea64c3d4e8ea8ee127220ae0dd05128ad58f67b1e8359578f8dd74"
   }
 }
