@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for the benchmarks of spiking engines, compilers and networks, as one repository of the SC-NeuroCore split. No benchmark runner, workload suite, energy accountant, moved SC-NeuroCore code or registered record format is released.",
+  "keywords": [
+    "neuromorphic benchmarks",
+    "energy accounting",
+    "performance comparison",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "SC-NC Bench",
+  "upload_type": "software"
+}
